@@ -20,18 +20,14 @@ const Footer: React.FC = () => {
             <a href="#home" className="text-gray-300 hover:text-white transition-colors">
               {t('header.home')}
             </a>
-            <a href="#about" className="text-gray-300 hover:text-white transition-colors">
-              {t('header.about')}
-            </a>
+        
             <a href="#process" className="text-gray-300 hover:text-white transition-colors">
               {t('header.services')}
             </a>
             <a href="#portfolio" className="text-gray-300 hover:text-white transition-colors">
               {t('header.portfolio')}
             </a>
-            <a href="#blog" className="text-gray-300 hover:text-white transition-colors">
-              {t('header.blog')}
-            </a>
+        
             <a href="#contact" className="text-gray-300 hover:text-white transition-colors">
               {t('header.contact')}
             </a>
