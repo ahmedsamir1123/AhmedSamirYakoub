@@ -2,7 +2,7 @@ const { SitemapStream, streamToPromise } = require('sitemap');
 const { createWriteStream } = require('fs');
 const { resolve } = require('path');
 
-const sitemap = new SitemapStream({ hostname: 'http://localhost:5173/' });
+const sitemap = new SitemapStream({ hostname: 'https://ahmed-samir-yakoub-portfolio.vercel.app/' });
 
 // روابط أقسام الصفحة الواحدة
 const routes = [
