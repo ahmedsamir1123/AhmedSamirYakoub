@@ -10,7 +10,7 @@ export default {
   hero: {
     greeting: 'Hello, I\'m',
     name: 'Ahmed Samir Yakoub',
-    profession: 'Frontend Develober',
+    profession: 'Frontend Developer',
     cta: 'Contact Me',
   },
   stats: {
@@ -19,7 +19,7 @@ export default {
     projects: 'Projects Done',
   },
   about: {
-    title: 'I am Professional User Experience Designer',
+    title: 'I am a Professional User Experience Designer',
     subtitle: 'Designing beautiful digital experiences that delight users',
     description: 'I’m passionate about creating high-quality digital experiences with a strong focus on front-end development. I specialize in building modern, responsive, and accessible web interfaces that blend aesthetic appeal with smooth, intuitive interaction. Driven by curiosity and a love for learning, I constantly explore new technologies and design trends to craft solutions that are both innovative and impactful. For me, every project is a chance to grow, solve real-world challenges, and build something meaningful through code and creativity.',
     button: 'Download CV',
